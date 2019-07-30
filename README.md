@@ -1,2 +1,2 @@
-# LintCode提交代码
+# LintCode
 **personalized**
