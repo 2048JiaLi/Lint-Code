@@ -1,2 +1,2 @@
 # LintCode
-**personalized**
+**个人解题**
