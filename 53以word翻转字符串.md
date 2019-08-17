@@ -1,3 +1,6 @@
+## Description
+**Given an input string, reverse the string word by word.**
+
 s = "world"
 
 #方法一、正则化表达式   Your submission beats 70.80% Submissions!
