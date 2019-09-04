@@ -1,0 +1,37 @@
+'''二叉树的中序遍历'''
+
+class TreeNode:
+    def __init__(self, val):
+        self.val = val
+        self.left, self.right = None, None
+
+#递归方法，    yield
+class Solution:
+    """
+    @param root: A Tree
+    @return: Preorder in ArrayList which contains node values.
+    """
+    def inorderTraversal(self, root):
+        # write your code here
+        res = self.result(root)
+        return list(res)
+
+    def result(self,root):
+        if root:
+            yield from self.inorderTraversal(root.left)
+            yield root.val
+            yield from self.inorderTraversal(root.right)
+
+#非递归方法见 题66前序遍历
+
+
+
+if __name__ == '__main__':
+    root = TreeNode(1)
+    root.right = TreeNode(2)
+    tmp = root.right
+    tmp.left = TreeNode(3)
+
+    tmp = Solution()
+    res = tmp.preorderTraversal(root)
+    print(list(res))
