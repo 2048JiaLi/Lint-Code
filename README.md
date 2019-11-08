@@ -1,6 +1,8 @@
 # LintCode
 **个人解题**
 
+[**最小堆**](./最小堆.py)
+
 + **二叉树**
    + [66前序遍历](https://github.com/2048JiaLi/Lint-Code/blob/master/66.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
    + [67中序遍历](https://github.com/2048JiaLi/Lint-Code/blob/master/67%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
