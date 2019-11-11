@@ -2,6 +2,8 @@
 **个人解题**
 
 [**最小堆**](./最小堆.py)
+[**链表**](https://github.com/2048JiaLi/PY3_privacy/blob/master/Python%E9%9D%A2%E8%AF%95/%E9%93%BE%E8%A1%A8.md)
+> [python面试](https://github.com/2048JiaLi/PY3_privacy/tree/master/Python%E9%9D%A2%E8%AF%95)
 
 + **二叉树**
    + [66前序遍历](https://github.com/2048JiaLi/Lint-Code/blob/master/66.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
