@@ -11,6 +11,7 @@
    + [68后续遍历](https://github.com/2048JiaLi/Lint-Code/blob/master/68%E4%BA%8C%E5%8F%89%E6%A0%91%E5%90%8E%E7%BB%AD%E9%81%8D%E5%8E%86.md)
    + [69层次遍历](https://github.com/2048JiaLi/Lint-Code/blob/master/69%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md)
    + [85插入节点](https://github.com/2048JiaLi/Lint-Code/blob/master/85%E4%BA%8C%E5%8F%89%E6%9F%A5%E6%89%BE%E6%A0%91%E4%B8%AD%E6%8F%92%E5%85%A5%E8%8A%82%E7%82%B9.md)
+   + [93判断是否为平衡二叉树](./93平衡二叉树判断.md)
 
 + **链表**
    + [96链表划分](https://github.com/2048JiaLi/Lint-Code/blob/master/96%20%E9%93%BE%E8%A1%A8%E5%88%92%E5%88%86.md)
