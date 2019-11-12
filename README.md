@@ -1,8 +1,8 @@
 # LintCode
 **个人解题**
 
-[**最小堆**](./最小堆.py)
-[**链表**](https://github.com/2048JiaLi/PY3_privacy/blob/master/Python%E9%9D%A2%E8%AF%95/%E9%93%BE%E8%A1%A8.md)
+[**最小堆**](./最小堆.py)  
+
 > [python面试](https://github.com/2048JiaLi/PY3_privacy/tree/master/Python%E9%9D%A2%E8%AF%95)
 
 + **二叉树**
